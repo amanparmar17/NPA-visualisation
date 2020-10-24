@@ -9,3 +9,9 @@ Nonperforming assets' visualization using Tableau Software of a zone of a bank.
 Tools used:
 * Microsoft Excel
 * Tableau
+
+
+Below mentioned are some of the screenshots from the report:
+![image1](http://url/to/img.png)
+![image2](http://url/to/img.png)
+![image3](http://url/to/img.png)
