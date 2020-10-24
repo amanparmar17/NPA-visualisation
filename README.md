@@ -20,3 +20,6 @@ Below mentioned are some of the screenshots from the report:
 
 
 ![image3](https://github.com/amanparmar17/NPA-visualisation/blob/master/images/screenshot-17.png)
+
+
+***Please visit the blog mentioned below to have a thorough read on the study.***
