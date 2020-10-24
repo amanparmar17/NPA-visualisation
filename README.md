@@ -14,5 +14,9 @@ Tools used:
 Below mentioned are some of the screenshots from the report:
 
 ![image1](https://github.com/amanparmar17/NPA-visualisation/blob/master/images/screenshot-7.png)
-![image2](http://url/to/img.png)
-![image3](http://url/to/img.png)
+
+
+![image2](https://github.com/amanparmar17/NPA-visualisation/blob/master/images/screenshot-16.png)
+
+
+![image3](https://github.com/amanparmar17/NPA-visualisation/blob/master/images/screenshot-17.png)
